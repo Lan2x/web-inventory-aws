@@ -4,6 +4,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         Hello World
         <h1>Added some changes on home page</h1>
+        <h2>added another changes on home page</h2>
       </main>
     </div>
   );
