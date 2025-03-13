@@ -5,6 +5,7 @@ export default function Home() {
         Hello World
         <h1>Added some changes on home page</h1>
         <h2>added another changes on home page</h2>
+        <h3>added 3d change on the home page</h3>
       </main>
     </div>
   );
